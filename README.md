@@ -10,4 +10,7 @@ Aplikasi berikut ini merupakan aplikasi donasi sederhana yang berbasis web. Di d
 ### Penjelasan Fitur Aplikasi
 
 1. Home
+
 ![](image/home.png)
+
+Gambar di atas merupakan Home atau beranda dari aplikasi ini. Di sini terdapat tiga navbar, yaitu "Home", "Bantuan", dan "Rekap".
