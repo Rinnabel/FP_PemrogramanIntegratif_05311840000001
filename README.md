@@ -10,4 +10,4 @@ Aplikasi berikut ini merupakan aplikasi donasi sederhana yang berbasis web. Di d
 ### Penjelasan Fitur Aplikasi
 
 1. Home
-
+![](image/home.png)
