@@ -32,3 +32,19 @@ Jika tombol "Tambahkan Bantuan" yang ada di page Bantuan diklik, maka akan muncu
 Berikut ini adalah tampilan bila berhasil menginputkan data.
 
 ![](image/berhasil.png)
+
+### 4. Rekap
+
+![](image/Rekap.png)
+
+Ketika Navbar "Rekap" diklik, maka akan muncul page seperti gambar di atas. Data-data tersebut adalah total dari keseluruhan sumbangan/donasi yang sudah terkumpul.
+
+### 5. Database
+
+![](image/database.png)
+
+Gambar di atas adalah database tempat tabel disimpan.
+
+![](image/tabel.png)
+
+Gambar di atas adalah tabel tempat data-data yang masuk di simpan.
